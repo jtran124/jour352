@@ -1,0 +1,28 @@
+h1 {
+    font-weight: bold;
+    font-style: italic;
+    color: #565554;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.p1 {
+    color: #a76be7;
+}
+
+
+.p2 {
+    color: #67b435;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.p3 {
+    font-weight: bold;
+    font-style: italic;
+}
+
+#author {
+
+    font-weight: bold;
+    color: brown;
+
+}
